@@ -4,7 +4,7 @@ Computational Physics @ UC Santa Cruz (2026). Python-based modeling and ML: simu
 Seeking Quant Research/Trading and Applied ML internships.
 
 ## Projects
-- **Monte Carlo Options Pricing (GBM) + Black–Scholes Validation** — <link>  
+- **Monte Carlo Options Pricing (GBM) + Black–Scholes Validation** — (https://github.com/James-Des/Brownian-Motion-Physics-Finance)
   Vectorized MC pricer + error analysis across strikes/maturities
 
 - **Higgs Boson Classification (PyTorch)** — <link>  
