@@ -1,16 +1,17 @@
-## Hi there 👋
+# James Desjarlais
 
-<!--
-**James-Des/James-Des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational Physics @ UC Santa Cruz (2026). Python-based modeling and ML: simulation, time series, and supervised learning.  
+Seeking Quant Research/Trading and Applied ML internships.
 
-Here are some ideas to get you started:
+## Projects
+- **Monte Carlo Options Pricing (GBM) + Black–Scholes Validation** — <link>  
+  Vectorized MC pricer + error analysis across strikes/maturities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Higgs Boson Classification (PyTorch)** — <link>  
+  1M samples, ROC-AUC evaluation, baselines, clean training pipeline
+
+## Skills
+Python • NumPy • Pandas • PyTorch • scikit-learn • XGBoost • Monte Carlo • Statistics
+
+## Links
+LinkedIn: <link> • Email: <email>
