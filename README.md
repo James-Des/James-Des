@@ -14,4 +14,4 @@ Seeking Quant Research/Trading and Applied ML internships.
 Python • NumPy • Pandas • PyTorch • scikit-learn • XGBoost • Monte Carlo • Statistics
 
 ## Links
-LinkedIn: <link> • Email: <email>
+LinkedIn: www.linkedin.com/in/james-desjarlais-3352172b6 • Email: jdes2002@gmail.com
