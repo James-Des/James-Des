@@ -7,10 +7,10 @@ Seeking Quant Research/Trading and Applied ML internships.
 **[Monte Carlo Options Pricing (GBM) + Black–Scholes Validation](https://github.com/James-Des/Brownian-Motion-Physics-Finance)** 
 - Stochastic-process pipeline: random walks → diffusion (Fick’s law) → GBM simulation → MC option pricing (validated vs Black–Scholes) + empirical return comparison.
 
-- **Higgs Boson Classification (PyTorch)** — <link> - 1M samples, ROC-AUC evaluation, baselines, clean training pipeline
+**Higgs Boson Classification (PyTorch)** — <link> - 1M samples, ROC-AUC evaluation, baselines, clean training pipeline
 
 ## Skills
 Python • NumPy • Pandas • PyTorch • scikit-learn • XGBoost • Monte Carlo • Statistics
 
 ## Links
-LinkedIn: **[LinkedIn](www.linkedin.com/in/james-desjarlais-3352172b6) • Email: jdes2002@gmail.com
+LinkedIn: [LinkedIn](www.linkedin.com/in/james-desjarlais-3352172b6) • Email: jdes2002@gmail.com
